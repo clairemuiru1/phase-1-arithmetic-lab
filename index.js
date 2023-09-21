@@ -7,4 +7,3 @@ const mod = num3 % num4
 const max =Math.max(16,17,18,19,20);
 const random = Math.floor(Math.random() * 10) + 1;
 
-// Write your code here
